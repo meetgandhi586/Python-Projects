@@ -1,3 +1,4 @@
+#email validation with string Functions
 email=input("Enter Your E-mail:")#closet condition of gmail is g@g.(in) ()bracket must be changing
 k,j,d=0,0,0
 if len(email)>=6:#checking the length which will be minimum will be 6 characters
